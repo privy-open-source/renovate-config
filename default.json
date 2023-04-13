@@ -60,7 +60,7 @@
       ]
     },
     {
-      "groupName": "eslint",
+      "groupName": "eslint and plugins",
       "groupSlug": "eslint",
       "matchPackagePrefixes": [
         "eslint"
