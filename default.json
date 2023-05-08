@@ -9,6 +9,8 @@
       "groupName": "persona monorepos",
       "groupSlug": "persona",
       "matchPackageNames": [
+        "@privyid/persona",
+        "@privyid/persona-icon",
         "@privyid/tailwind-preset",
         "@privyid/tailwind-extended",
         "@privyid/tailwind-animation",
