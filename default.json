@@ -19,6 +19,13 @@
       ]
     },
     {
+      "groupName": "pena monorepos",
+      "groupSlug": "pena",
+      "matchPackagePrefixes": [
+        "@privyid/pena"
+      ]
+    },
+    {
       "groupName": "nuxt framework",
       "groupSlug": "nuxt",
       "matchPackageNames": [
